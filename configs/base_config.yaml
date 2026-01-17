@@ -1,0 +1,24 @@
+generation:
+  model_id: "runwayml/stable-diffusion-v1-5"
+  num_inference_steps: 50
+  guidance_scale: 7.5
+  width: 512
+  height: 512
+  
+clipasso:
+  default_strokes: 16
+  abstraction_level: 0.7
+  num_iterations: 500
+  learning_rate: 0.1
+  semantic_weight: 0.1
+  
+m3s:
+  injection_layers: [7, 8]
+  lambda_blend: 0.1
+  content_guidance: 15.0
+  style_guidance: 15.0
+  
+diffsketcher:
+  sds_guidance_scale: 100.0
+  num_iterations: 200
+  learning_rate: 0.01
