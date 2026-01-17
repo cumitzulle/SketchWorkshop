@@ -8,7 +8,7 @@ The project is dedicated to incorporate the capabilities of the three sketch gen
 The pipeline workflow of the project is designed as below: 
 
 <center>
-<img src="./assets/Pipeline.png" alt="Pipeline" width="800" />
+<img src="./assets/Pipeline.png" alt="Pipeline" width="400" />
 </center>
 
 Usage: 
