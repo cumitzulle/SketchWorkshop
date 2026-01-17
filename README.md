@@ -7,7 +7,7 @@ The project is dedicated to incorporate the capabilities of the three sketch gen
 
 The pipeline workflow of the project is designed as below: 
 
-<img src="./assets/pipeline" alt="屏幕截图 2026-01-17 141955" style="zoom: 40%;" />
+<img src="./assets/Pipeline.png" alt="Pipeline" style="zoom:45%;" />
 
 Usage: 
 
